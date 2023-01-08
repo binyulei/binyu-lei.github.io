@@ -11,8 +11,8 @@ title                    : "Binyu Lei 雷滨宇"
 title_separator          : "-"
 name                     : &name "binyulei"
 description              : &description "Binyu is a PhD researcher in the Urban Analytics Lab at the National University of Singapore. "
-url                      : "https://binyulei.com"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://academicpages.github.io"
+baseurl                  : "binyu-lei"
 repository               : "binyulei/website.github.io.git"
 teaser                   : #
 breadcrumbs              : false # true, false (default)
