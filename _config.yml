@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Binyu Lei 雷滨宇"
+title                    : "Binyu Lei"
 title_separator          : "-"
 name                     : &name "binyulei"
 description              : &description "Binyu is a PhD researcher in the Urban Analytics Lab at the National University of Singapore. "
-url                      : "https://binyu-lei.github.io"
+url                      : "https://binyulei.github.io"
 baseurl                  : 
-repository               : "binyulei/binyu-lei.github.io.git"
+repository               : "binyulei/binyulei.github.io.git"
 teaser                   : #
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
