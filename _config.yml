@@ -13,7 +13,7 @@ name                     : &name "binyulei"
 description              : &description "Binyu is a PhD researcher in the Urban Analytics Lab at the National University of Singapore. "
 url                      : "https://binyu-lei.github.io"
 baseurl                  : 
-repository               : "binyulei/website.github.io.git"
+repository               : "binyulei/binyu-lei.github.io.git"
 teaser                   : #
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
