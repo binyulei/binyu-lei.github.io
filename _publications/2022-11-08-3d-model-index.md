@@ -1,7 +1,7 @@
 ---
 title: "Assessing and benchmarking 3D city models"
 collection: publications
-permalink: /publication/2022-11-08-3d-model-index
+<!-- permalink: /publication/2022-11-08-3d-model-index -->
 excerpt: 'A 4-category framework encompassing 47 criteria is developed, evaluating 40 authoritative city models worldwide. It is a generic approach that can be further adopted in customised ways in certain contexts.'
 date: 2022-11-08
 venue: 'International Journal of Geographical Information Science'
