@@ -10,4 +10,11 @@ citation: 'Lei, B., Stouffs, R., & Biljecki, F. (2022). &quot;Assessing and benc
 ---
 
 
-Citation: Lei, B., Stouffs, R., & Biljecki, F. (2022). "Assessing and benchmarking 3D city models." <i>International Journal of Geographical Information Science</i>, 1-22.
+Citation: @article{lei2022assessing,
+  title={Assessing and benchmarking 3D city models},
+  author={Lei, Binyu and Stouffs, Rudi and Biljecki, Filip},
+  journal={International Journal of Geographical Information Science},
+  pages={1--22},
+  year={2022},
+  publisher={Taylor \& Francis}
+}
