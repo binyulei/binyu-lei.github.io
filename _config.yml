@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Binyu Lei"
 title_separator          : "-"
-name                     : &name "binyulei"
-description              : &description "Binyu is a PhD researcher in the Urban Analytics Lab at the National University of Singapore. "
+name                     : &name ""
+description              : &description ""
 url                      : "https://binyulei.github.io"
 baseurl                  : 
 repository               : "binyulei/binyulei.github.io.git"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Binyu Lei"
   avatar           : "IMG_8719 2.JPG"
-  bio              : "PhD Researcher in Urban Analytics Lab, National University of Singapore"
+  bio              : "binyul@u.nus.edu"
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?hl=en&user=0i0BL_0AAAAJ"
-  email            : "binyul@u.nus.edu"
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/Binyu_Lei"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #""
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
