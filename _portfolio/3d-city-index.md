@@ -11,7 +11,7 @@ excerpt: "Assessing and benchmarking 3D City Models
 ### About the project
 
 3D city models are omnipresent in urban management and simulations.
-We establish a holistic and comprehensive 4-category framework -- `3D City Index', encompassing 47 criteria to identify key properties of 3D city models, enabling their assessment and benchmarking, and suggesting usability. The framework implementation enables a comprehensive and structured understanding of the landscape of semantic 3D geospatial data, as well as doubles as an evaluated collection of open 3D city models.
+We establish a holistic and comprehensive 4-category framework -- '3D City Index', encompassing 47 criteria to identify key properties of 3D city models, enabling their assessment and benchmarking, and suggesting usability. The framework implementation enables a comprehensive and structured understanding of the landscape of semantic 3D geospatial data, as well as doubles as an evaluated collection of open 3D city models.
 
 There are further applications of this first endeavour to standardise the characterisation of 3D data: monitoring developments and trends in 3D city modelling, and enabling researchers and practitioners to find the most appropriate datasets for their needs.
 The work is designed to measure datasets continuously and can also be applied to other instances in spatial data infrastructures.
