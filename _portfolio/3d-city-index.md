@@ -6,18 +6,20 @@ excerpt: "Assessing and benchmarking 3D City Models
 ---
 
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
+
+
 ### About the project
 
 3D city models are omnipresent in urban management and simulations.
 We establish a holistic and comprehensive 4-category framework -- `3D City Index', encompassing 47 criteria to identify key properties of 3D city models, enabling their assessment and benchmarking, and suggesting usability. The framework implementation enables a comprehensive and structured understanding of the landscape of semantic 3D geospatial data, as well as doubles as an evaluated collection of open 3D city models.
-​
+
 There are further applications of this first endeavour to standardise the characterisation of 3D data: monitoring developments and trends in 3D city modelling, and enabling researchers and practitioners to find the most appropriate datasets for their needs.
 The work is designed to measure datasets continuously and can also be applied to other instances in spatial data infrastructures.
-​
+
 ### Framework 
-​
+
 The developed framework contains four categories, which are: Data portal, Basic information, Thematic content, and Attribute content. Each category includes a set of criteria to comprehensively emphasise different points of views.
-​
+
 | **Category**             | **Criteria**                                                                    |
 | ------------------------ | ------------------------------------------------------------------------------- |
 | (1) Data Portal          | 1C1 -- Does the dataset have a dedicated website?                               |
@@ -67,18 +69,18 @@ The developed framework contains four categories, which are: Data portal, Basic 
 |                          | 4C13 -- Does it contain the area of grounds?                                    |
 |                          | 4C14 -- Does it contain gross floor areas?                                      |
 |                          | 4C15 -- Does it contain materials of buildings?                                 |
-​
-​
+
+
 ### Assessment
-​
+
 A demonstration that doubles as an analysis of the worldwide state of open 3D geoinformation, a set of 40 authoritative open datasets has been assessed using the framework.
 Overall, our implementation contains about 2000 manually collected properties.
 The assessed 40 datasets present significant differences in each category.
 Such performances suggest heterogeneous approaches and different focuses of local governments.
-​
+
 The results are given in the table below.
 You may click on cities to visit their 3D models.
-​
+
 | **City**                                             | **Score**       |
 | ---------------------------------------------------- | --------------- |
 | [Helsinki][Helsinki]                                 | 32              |
@@ -121,11 +123,11 @@ You may click on cities to visit their 3D models.
 | [Wellington][Wellington]                             | 15              |
 | [Boston][Boston]                                     | 13              |
 | [Bordeaux][Bordeaux]                                 | 13              |
-​
-​
-​
-[Helsinki](https://www.hel.fi/helsinki/en/administration/information/general/3d/view/view-the-models)
-[Amsterdam](https://3d.amsterdam.nl/web/index.html)
+
+
+
+[Helsinki]:https://www.hel.fi/helsinki/en/administration/information/general/3d/view/view-the-models
+[Amsterdam]:https://3d.amsterdam.nl/web/index.html
 [Espoo]:https://kartat.espoo.fi/3d/index_en.html
 [Poznan]:https://www.poznan.pl/mim/main/object.html?id_klasy=5763&id_obiektu=71448&lang=pl
 [Tokyo]:https://www.geospatial.jp/ckan/dataset/plateau-tokyo23ku-citygml-2020
@@ -142,4 +144,36 @@ You may click on cities to visit their 3D models.
 [Lyon]:https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-metropole-lyon/donnees
 [Melbourne]:https://data.melbourne.vic.gov.au/Property/City-of-Melbourne-3D-Textured-Mesh-Photomesh-2018/d5tb-r7a6
 [Vantaa]:https://www.betaavoindata.fi/data/fi/dataset/vantaan-3d-rakennukset
-[Linz]:https://www.linz.at/stadtentwick...
+[Linz]:https://www.linz.at/stadtentwicklung/linz3d.php
+[Sachsen]:http://www.landesvermessung.sachsen.de/3d-stadtmodell-4090.html
+[Berlin]:https://www.businesslocationcenter.de/en/economic-atlas/download-portal/
+[Hamburg]:https://suche.transparenz.hamburg.de/dataset/3d-stadtmodell-lod2-de-hamburg2#
+[Brandenburg]:https://geobasis-bb.de/lgb/de/geodaten/3d-produkte/3d-gebaeudemodelle/#
+[Tallinn]:https://geoportaal.maaamet.ee/eng/Spatial-Data/Geo3D/3D-Data-p836.html
+[Toronto]:https://open.toronto.ca/dataset/3d-massing/
+[Niedersachsen]:https://opengeodata.lgln.niedersachsen.de/#lod1
+[Namur]:https://data.namur.be/explore/dataset/namur-3d-batiments-textures-par-dalle-de-200m/information/
+[Hannover]:https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Landeshauptstadt-Hannover/Dezernate-und-Fachbereiche-der-LHH/Stadtentwicklung-und-Bauen/Fachbereich-Planen-und-Stadtentwicklung/Geoinformation/Open-GeoData/3D-Stadtmodell-und-Gel%C3%A4ndemodell/Digitales-3D-Stadtmodell
+[Luxembourg]:https://data.public.lu/en/datasets/5cecd25a4384b06ad27e5c58/
+[Montreal]:https://open.canada.ca/data/en/dataset/58dd9b17-8242-4013-bf9d-0c8d3d93f081
+[Zurich]:https://data.stadt-zuerich.ch/dataset?q=&tags=3d-stadtmodell
+[Cambridge]:https://www.cambridgema.gov/GIS/3D/3ddata/3ddatadownloadmap
+[Nordrhein-Westfalen]:https://www.bezreg-koeln.nrw.de/brk_internet/geobasis/3d_gebaeudemodelle/index.html
+[Brussels]:https://datastore.brussels/web/data/dataset/93b1bcb1-2adb-4cf8-9e5d-381e9904536c
+[New York]:https://www1.nyc.gov/site/doitt/initiatives/3d-building.page
+[Zwolle]:https://zwolle.maps.arcgis.com/apps/webappviewer/index.html?id=f178225fb81e462f956404cdb54500e8&webmap=03d590b1de534bd193ba83cf815b4584
+[Potsdam]:https://potsdam.opendatasoft.com/explore/dataset/3d-gebaudemodell-lod2-citygml/information/
+[Boston]:http://www.bostonplans.org/3d-data-maps/3d-smart-model/3d-data-download
+[Bordeaux]:https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/
+[Wellington]:https://catalogue.data.govt.nz/dataset/3d-wellington
+
+
+## Disclaimer
+
+We remain neutral with respect to jurisdictional claims in the datasets.
+
+## Acknowledgements
+
+We gratefully acknowledge the sources of the used input data.
+
+This research is part of the projects (i) Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start Up Grant R-295-000-171-133; and (ii) Multi-scale Digital Twins for the Urban Environment: From Heartbeats to Cities, which is supported by the Singapore Ministry of Education Academic Research Fund Tier 1.
