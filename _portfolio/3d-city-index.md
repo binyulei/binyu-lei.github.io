@@ -124,8 +124,8 @@ You may click on cities to visit their 3D models.
 ​
 ​
 ​
-[Helsinki]:https://www.hel.fi/helsinki/en/administration/information/general/3d/view/view-the-models
-[Amsterdam]:https://3d.amsterdam.nl/web/index.html
+[Helsinki](https://www.hel.fi/helsinki/en/administration/information/general/3d/view/view-the-models)
+[Amsterdam](https://3d.amsterdam.nl/web/index.html)
 [Espoo]:https://kartat.espoo.fi/3d/index_en.html
 [Poznan]:https://www.poznan.pl/mim/main/object.html?id_klasy=5763&id_obiektu=71448&lang=pl
 [Tokyo]:https://www.geospatial.jp/ckan/dataset/plateau-tokyo23ku-citygml-2020
