@@ -10,4 +10,4 @@ location: "National University of Singapore, Singapore"
 
 [More information here](https://cde.nus.edu.sg/arch/nus-sutd-phd-symposium-in-architecture/)
 
-The NUS-SUTD PhD Symposium in Architecture is an annual event jointly hosted by the Department of Architecture (DoA) at NUS and the Architecture and Sustainable Design Pillar (ASD) at SUTD.
+The NUS-SUTD PhD Symposium in Architecture is an annual event jointly hosted by the Department of Architecture (DoA) at National University of Singapore (NUS) and the Architecture and Sustainable Design Pillar (ASD) at Singapore University of Technology and Design (SUTD).
