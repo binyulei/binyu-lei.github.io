@@ -2,7 +2,7 @@
 title: "NUS-SUTD PhD Symposium in Architecture"
 collection: talks
 type: "Talk"
-permalink: /talks/2013-03-01-tutorial-1
+permalink: /talks/2022-05-Symposium
 venue: "Seminar Room 03, SDE1 Floor 4"
 date: 2022-05-20
 location: "National University of Singapore, Singapore"
