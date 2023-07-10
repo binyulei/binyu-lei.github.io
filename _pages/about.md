@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
-I am a PhD candidate in the Urban Analytics Lab at the National University of Singapore, holding a Master degree in Urban Planning. My research interests include conceptualisation, semantic enrichment and adoption of 3D city models and digital twins.
+I am a PhD candidate in Urban Analytics Lab at the Department of Architecture and is working with Dr Filip Biljecki. My research focuses on conceptualisation, semantics and adoption of 3D city models and digital twins, as well as publicly available data. I holds a Master’s degree in Urban Planning from the University of Melbourne and a Bachelor's degree in Human Geography and Regional Planning from East China Normal University. Currently, I serves as a research associate for Multi-scale Digital Twins for the Urban Environment, leading the development of a digital twin campus platform.
+
+[Resume](CV-Binyu-LEI-20230710.pdf)
 
 Education
 ======
