@@ -15,7 +15,7 @@ I am a PhD candidate in Urban Analytics Lab at the Department of Architecture an
 Education
 ======
 * B.S. in Human Geography and Regional Planning, East China Normal University, 2017
-* M.S. in Urban Planning, University of Melbourne, 2019
+* M.S. in Urban Planning, The University of Melbourne, 2019
 
 Get in touch
 ======
