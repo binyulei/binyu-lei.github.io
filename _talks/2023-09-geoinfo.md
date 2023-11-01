@@ -1,5 +1,5 @@
 ---
-title: "18th International 3DGeoInfo Conference 2023"
+title: "The 18th International 3DGeoInfo Conference 2023"
 type: "Talk"
 permalink: /talks/2023-09-geoinfo
 venue: "Technical University of Munich"
