@@ -3,7 +3,7 @@ title: "18th International 3DGeoInfo Conference 2023"
 type: "Talk"
 permalink: /talks/2023-09-geoinfo
 venue: "Technical University of Munich"
-date: 2022-09-13
+date: 2023-09-13
 location: "Munich, Germany"
 ---
 
@@ -18,5 +18,5 @@ The 18th International 3D GeoInfo Conference 2023 took place in Munich, Germany 
 I have presented our research work on ‘Humans as Sensors in Urban Digital Twins’, which was coauthored with Su Yunlei and Filip Biljecki. Further, it was a significant achievement for our team to receive the best paper award 🏆🥳.
 
 <div align=center>
-<img src="images/3d-geoinfo.jpg">
+<img src="https://github.com/binyulei/binyulei.github.io/blob/7e070963e1fef0bac2df254796b45b7a90521d4f/images/3d-geoinfo.jpg">
 </div>
