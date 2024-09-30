@@ -1,8 +1,7 @@
 ---
 title: "Featured Research"
 excerpt: "A collection of my research
-<br/><img src='/images/logo-2.png'>
-
+<br/><img src='/images/logo-2.png'>"
 
 ---
 
