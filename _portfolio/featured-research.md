@@ -1,7 +1,6 @@
 ---
 title: "Featured Research"
 excerpt: "A collection of my research
-# <br/><img src='/images/3d-city-index.png'>"
 
 ---
 
